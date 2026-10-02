@@ -1,0 +1,5 @@
+# Link do vídeo da apresentação (YouTube não listado)
+
+Ainda não publicado. Depois da gravação, substitua esta linha pelo URL, por exemplo:
+
+https://youtu.be/XXXXXXXXXXX

@@ -1,0 +1,121 @@
+ciclo,modulo_id,nome_modulo,tipo_modulo,latencia_observada_ms,latencia_estimada_ms,tensao_v,corrente_a,potencia_w,qualidade_sinal,carga_enlace,status,prioridade,peso_prioridade,codigo_sensor_dec,mensagem_alerta
+1,CTL,Centro de Controle,comunicacao,32.069,20.527,48.1732,0.3325,16.0177,45.77,10.35,alerta,P1,5,419,Latencia acima do envelope operacional
+1,PWR,Complexo de Energia,energia,41.642,33.256,120.2052,0.227,27.2837,78.5,43.69,ativo,P1,5,692,Enlace nominal
+1,LSS,Sistema de Suporte de Vida,suporte,39.546,33.625,47.9888,0.4066,19.5116,68.97,51.74,ativo,P1,5,973,Enlace nominal
+1,HAB,Complexo Habitacional,habitacao,37.826,31.158,23.88,0.5564,13.2874,86.97,26.18,ativo,P2,4,1262,Enlace nominal
+1,MED,Complexo Medico,suporte_medico,51.388,16.577,47.992,0.3964,19.0237,99.0,8.26,alerta,P2,4,1365,Latencia acima do envelope operacional
+1,COM,Sistema de Comunicacao,comunicacao,57.954,43.584,28.2469,1.6072,45.3987,82.56,22.8,alerta,P3,3,1710,Latencia acima do envelope operacional
+1,AGR,Complexo de Agricultura,agricultura,53.213,46.264,23.8606,0.7022,16.7552,71.17,51.27,ativo,P3,3,2001,Enlace nominal
+1,LOG,Complexo de Logistica,armazenamento,52.531,47.361,23.709,0.4812,11.4099,99.0,24.2,ativo,P4,2,2198,Enlace nominal
+1,MIN,Complexo de Mineracao,laboratorio,68.861,63.028,48.3334,0.9014,43.5697,99.0,26.43,ativo,P4,2,2730,Enlace nominal
+1,RES,Centro de Pesquisa,laboratorio,46.074,39.848,12.1174,0.3425,4.1504,95.67,44.72,ativo,P5,1,3017,Enlace nominal
+2,CTL,Centro de Controle,comunicacao,37.579,28.599,48.2293,0.3133,15.1093,90.24,52.08,alerta,P1,5,419,Latencia acima do envelope operacional
+2,PWR,Complexo de Energia,energia,45.056,35.343,119.9657,0.2243,26.9047,77.1,50.18,ativo,P1,5,692,Enlace nominal
+2,LSS,Sistema de Suporte de Vida,suporte,33.86,28.651,48.0731,0.4098,19.6997,94.12,43.54,ativo,P1,5,973,Enlace nominal
+2,HAB,Complexo Habitacional,habitacao,38.685,33.574,24.0552,0.55,13.2315,76.48,30.74,ativo,P2,4,1262,Enlace nominal
+2,MED,Complexo Medico,suporte_medico,41.783,31.577,47.8567,0.3801,18.1914,86.01,53.93,alerta,P2,4,1365,Latencia acima do envelope operacional
+2,COM,Sistema de Comunicacao,comunicacao,74.089,59.434,28.1486,1.5918,44.8073,84.98,76.44,ativo,P3,3,1710,Enlace nominal
+2,AGR,Complexo de Agricultura,agricultura,52.533,45.741,23.9836,0.7056,16.924,99.0,58.8,ativo,P3,3,2001,Enlace nominal
+2,LOG,Complexo de Logistica,armazenamento,55.327,48.074,24.049,0.4848,11.66,81.29,20.68,ativo,P4,2,2198,Enlace nominal
+2,MIN,Complexo de Mineracao,laboratorio,83.99,73.68,48.2818,0.9021,43.5534,67.74,51.51,ativo,P4,2,2730,Enlace nominal
+2,RES,Centro de Pesquisa,laboratorio,33.01,31.781,12.0455,0.336,4.0476,97.41,18.41,ativo,P5,1,3017,Enlace nominal
+3,CTL,Centro de Controle,comunicacao,58.346,27.087,48.0196,0.3349,16.0838,56.21,35.69,alerta,P1,5,419,Latencia acima do envelope operacional
+3,PWR,Complexo de Energia,energia,34.774,32.085,120.0993,0.2284,27.4271,77.31,39.38,ativo,P1,5,692,Enlace nominal
+3,LSS,Sistema de Suporte de Vida,suporte,50.034,37.556,47.9471,0.4124,19.7719,63.57,63.04,alerta,P1,5,973,Latencia acima do envelope operacional
+3,HAB,Complexo Habitacional,habitacao,45.92,39.02,24.1104,0.5493,13.2445,78.57,49.59,ativo,P2,4,1262,Enlace nominal
+3,MED,Complexo Medico,suporte_medico,41.731,32.447,48.0311,0.377,18.1095,85.03,56.5,alerta,P2,4,1365,Latencia acima do envelope operacional
+3,COM,Sistema de Comunicacao,comunicacao,62.643,46.813,27.9143,1.5987,44.627,50.83,22.99,alerta,P3,3,1710,Latencia acima do envelope operacional
+3,AGR,Complexo de Agricultura,agricultura,53.689,45.757,23.9113,0.7012,16.7676,99.0,58.86,ativo,P3,3,2001,Enlace nominal
+3,LOG,Complexo de Logistica,armazenamento,66.174,57.688,24.1734,0.4639,11.2135,79.75,52.21,ativo,P4,2,2198,Enlace nominal
+3,MIN,Complexo de Mineracao,laboratorio,71.735,65.331,47.994,0.9038,43.3772,85.7,29.67,ativo,P4,2,2730,Enlace nominal
+3,RES,Centro de Pesquisa,laboratorio,55.624,47.881,11.9912,0.3539,4.2438,53.84,57.55,alerta,P5,1,3017,Latencia acima do envelope operacional
+4,CTL,Centro de Controle,comunicacao,43.886,32.841,48.04,0.3262,15.6729,73.3,60.57,alerta,P1,5,419,Latencia acima do envelope operacional
+4,PWR,Complexo de Energia,energia,46.02,35.153,119.6762,0.2223,26.6098,73.75,48.43,alerta,P1,5,692,Latencia acima do envelope operacional
+4,LSS,Sistema de Suporte de Vida,suporte,41.927,32.978,48.0284,0.3949,18.9673,85.77,55.18,ativo,P1,5,973,Enlace nominal
+4,HAB,Complexo Habitacional,habitacao,35.09,31.807,24.0875,0.5612,13.5182,96.6,31.56,manutencao,P2,4,1262,Janela de manutencao preventiva
+4,MED,Complexo Medico,suporte_medico,32.403,25.594,47.9891,0.365,17.5144,87.8,34.58,ativo,P2,4,1365,Enlace nominal
+4,COM,Sistema de Comunicacao,comunicacao,60.337,49.961,27.7711,1.6086,44.6729,84.95,44.85,ativo,P3,3,1710,Enlace nominal
+4,AGR,Complexo de Agricultura,agricultura,35.348,34.478,23.8075,0.7089,16.876,99.0,21.26,ativo,P3,3,2001,Enlace nominal
+4,LOG,Complexo de Logistica,armazenamento,69.622,60.586,23.9168,0.485,11.5999,79.99,61.95,ativo,P4,2,2198,Enlace nominal
+4,MIN,Complexo de Mineracao,laboratorio,85.064,73.2,47.9853,0.9042,43.388,77.04,53.01,ativo,P4,2,2730,Enlace nominal
+4,RES,Centro de Pesquisa,laboratorio,33.469,30.332,11.9917,0.3414,4.0944,99.0,14.11,ativo,P5,1,3017,Enlace nominal
+5,CTL,Centro de Controle,comunicacao,22.401,15.671,47.8567,0.3194,15.2833,78.29,5.0,alerta,P1,5,419,Latencia acima do envelope operacional
+5,PWR,Complexo de Energia,energia,32.121,29.241,120.2687,0.229,27.539,99.0,37.14,ativo,P1,5,692,Enlace nominal
+5,LSS,Sistema de Suporte de Vida,suporte,24.497,20.696,48.007,0.4288,20.5856,93.84,16.93,ativo,P1,5,973,Enlace nominal
+5,HAB,Complexo Habitacional,habitacao,37.115,30.32,23.8837,0.557,13.3041,83.14,22.11,ativo,P2,4,1262,Enlace nominal
+5,MED,Complexo Medico,suporte_medico,39.627,30.493,47.9803,0.3817,18.3138,75.19,46.71,alerta,P2,4,1365,Latencia acima do envelope operacional
+5,COM,Sistema de Comunicacao,comunicacao,64.364,52.549,28.0255,1.6156,45.277,69.17,48.22,ativo,P3,3,1710,Enlace nominal
+5,AGR,Complexo de Agricultura,agricultura,39.584,35.974,24.096,0.7018,16.91,85.22,21.65,ativo,P3,3,2001,Enlace nominal
+5,LOG,Complexo de Logistica,armazenamento,69.357,62.273,24.1349,0.4753,11.4707,76.58,66.44,ativo,P4,2,2198,Enlace nominal
+5,MIN,Complexo de Mineracao,laboratorio,73.337,66.263,47.788,0.8984,42.9329,93.5,35.38,ativo,P4,2,2730,Enlace nominal
+5,RES,Centro de Pesquisa,laboratorio,43.896,35.293,12.0286,0.3512,4.2244,64.38,19.1,ativo,P5,1,3017,Enlace nominal
+6,CTL,Centro de Controle,comunicacao,34.17,27.872,47.8053,0.3242,15.4968,87.49,48.74,ativo,P1,5,419,Enlace nominal
+6,PWR,Complexo de Energia,energia,41.367,37.02,120.0601,0.2385,28.6293,97.82,62.68,ativo,P1,5,692,Enlace nominal
+6,LSS,Sistema de Suporte de Vida,suporte,40.305,33.471,48.0566,0.415,19.9431,83.31,56.01,ativo,P1,5,973,Enlace nominal
+6,HAB,Complexo Habitacional,habitacao,43.025,35.466,23.9219,0.5426,12.979,72.27,35.64,ativo,P2,4,1262,Enlace nominal
+6,MED,Complexo Medico,suporte_medico,29.038,22.662,48.0003,0.3828,18.3722,81.12,22.58,alerta,P2,4,1365,Latencia acima do envelope operacional
+6,COM,Sistema de Comunicacao,comunicacao,65.176,51.927,27.9702,1.6135,45.1289,67.47,45.58,ativo,P3,3,1710,Enlace nominal
+6,AGR,Complexo de Agricultura,agricultura,54.905,45.396,23.9819,0.6874,16.4856,92.47,55.47,ativo,P3,3,2001,Enlace nominal
+6,LOG,Complexo de Logistica,armazenamento,64.366,58.435,24.1023,0.4614,11.1213,93.42,59.26,ativo,P4,2,2198,Enlace nominal
+6,MIN,Complexo de Mineracao,laboratorio,69.903,64.227,47.7689,0.9089,43.4148,99.0,30.42,ativo,P4,2,2730,Enlace nominal
+6,RES,Centro de Pesquisa,laboratorio,46.201,40.012,12.203,0.3513,4.2865,72.24,37.45,ativo,P5,1,3017,Enlace nominal
+7,CTL,Centro de Controle,comunicacao,28.778,25.041,48.0786,0.3341,16.0613,86.09,38.83,ativo,P1,5,419,Enlace nominal
+7,PWR,Complexo de Energia,energia,49.274,42.757,119.9902,0.2172,26.0576,89.39,78.99,ativo,P1,5,692,Enlace nominal
+7,LSS,Sistema de Suporte de Vida,suporte,53.539,40.763,48.2148,0.4176,20.133,70.25,75.96,alerta,P1,5,973,Latencia acima do envelope operacional
+7,HAB,Complexo Habitacional,habitacao,43.988,38.534,24.0152,0.5364,12.8827,74.64,46.66,ativo,P2,4,1262,Enlace nominal
+7,MED,Complexo Medico,suporte_medico,36.264,29.901,47.9352,0.3785,18.145,91.02,50.01,ativo,P2,4,1365,Enlace nominal
+7,COM,Sistema de Comunicacao,comunicacao,67.726,54.93,28.0432,1.606,45.0365,89.16,62.82,ativo,P3,3,1710,Enlace nominal
+7,AGR,Complexo de Agricultura,agricultura,49.894,41.544,23.8781,0.7027,16.7785,76.25,37.23,manutencao,P3,3,2001,Janela de manutencao preventiva
+7,LOG,Complexo de Logistica,armazenamento,63.669,56.427,23.995,0.4979,11.948,95.2,53.16,ativo,P4,2,2198,Enlace nominal
+7,MIN,Complexo de Mineracao,laboratorio,89.989,76.202,47.9841,0.8862,42.5243,77.99,63.34,ativo,P4,2,2730,Enlace nominal
+7,RES,Centro de Pesquisa,laboratorio,46.781,39.868,11.9409,0.3559,4.2497,82.11,40.26,ativo,P5,1,3017,Enlace nominal
+8,CTL,Centro de Controle,comunicacao,28.305,24.968,47.894,0.3359,16.0883,80.65,36.78,ativo,P1,5,419,Enlace nominal
+8,PWR,Complexo de Energia,energia,52.967,39.1,119.9079,0.2266,27.1734,76.8,62.6,alerta,P1,5,692,Latencia acima do envelope operacional
+8,LSS,Sistema de Suporte de Vida,suporte,41.235,34.37,47.9843,0.4027,19.3253,96.19,63.3,ativo,P1,5,973,Enlace nominal
+8,HAB,Complexo Habitacional,habitacao,37.509,32.865,24.1926,0.5515,13.3418,99.0,35.88,ativo,P2,4,1262,Enlace nominal
+8,MED,Complexo Medico,suporte_medico,36.406,29.546,47.9852,0.3882,18.6257,89.0,48.15,ativo,P2,4,1365,Enlace nominal
+8,COM,Sistema de Comunicacao,comunicacao,72.066,56.097,27.9576,1.5972,44.6534,64.94,58.64,alerta,P3,3,1710,Latencia acima do envelope operacional
+8,AGR,Complexo de Agricultura,agricultura,48.184,42.484,23.9614,0.7094,16.9976,93.55,46.13,ativo,P3,3,2001,Enlace nominal
+8,LOG,Complexo de Logistica,armazenamento,73.739,60.639,24.1861,0.4752,11.4942,74.17,60.19,ativo,P4,2,2198,Enlace nominal
+8,MIN,Complexo de Mineracao,laboratorio,75.02,66.757,48.182,0.904,43.5566,97.87,38.48,ativo,P4,2,2730,Enlace nominal
+8,RES,Centro de Pesquisa,laboratorio,52.667,42.109,12.0149,0.3544,4.2578,81.13,47.41,ativo,P5,1,3017,Enlace nominal
+9,CTL,Centro de Controle,comunicacao,37.456,27.655,48.1488,0.3251,15.6542,92.63,49.73,alerta,P1,5,419,Latencia acima do envelope operacional
+9,PWR,Complexo de Energia,energia,86.245,35.95,120.1454,0.2187,26.2787,76.64,52.05,alerta,P1,5,692,Latencia acima do envelope operacional
+9,LSS,Sistema de Suporte de Vida,suporte,41.223,32.59,47.4474,0.4129,19.5931,69.58,48.49,ativo,P1,5,973,Enlace nominal
+9,HAB,Complexo Habitacional,habitacao,47.936,41.663,23.7458,0.5661,13.4433,81.31,59.31,ativo,P2,4,1262,Enlace nominal
+9,MED,Complexo Medico,suporte_medico,26.546,21.375,48.2712,0.3819,18.4332,82.72,18.82,ativo,P2,4,1365,Enlace nominal
+9,COM,Sistema de Comunicacao,comunicacao,84.698,40.624,28.0657,1.5959,44.7912,82.21,12.82,alerta,P3,3,1710,Latencia acima do envelope operacional
+9,AGR,Complexo de Agricultura,agricultura,54.335,49.238,24.0439,0.6975,16.7715,87.07,66.49,ativo,P3,3,2001,Enlace nominal
+9,LOG,Complexo de Logistica,armazenamento,63.304,57.907,23.8094,0.4891,11.6448,87.12,55.4,ativo,P4,2,2198,Enlace nominal
+9,MIN,Complexo de Mineracao,laboratorio,69.508,65.477,47.7764,0.8968,42.8437,96.15,33.64,ativo,P4,2,2730,Enlace nominal
+9,RES,Centro de Pesquisa,laboratorio,59.622,52.812,12.0401,0.3384,4.0748,94.06,87.39,ativo,P5,1,3017,Enlace nominal
+10,CTL,Centro de Controle,comunicacao,39.849,33.291,47.8906,0.3149,15.0805,76.89,63.27,ativo,P1,5,419,Enlace nominal
+10,PWR,Complexo de Energia,energia,52.441,37.897,119.9411,0.2043,24.5054,79.89,59.62,alerta,P1,5,692,Latencia acima do envelope operacional
+10,LSS,Sistema de Suporte de Vida,suporte,63.589,28.064,47.9956,0.4237,20.3368,73.03,34.56,alerta,P1,5,973,Latencia acima do envelope operacional
+10,HAB,Complexo Habitacional,habitacao,41.763,32.628,23.9966,0.5417,12.9978,94.74,33.67,ativo,P2,4,1262,Enlace nominal
+10,MED,Complexo Medico,suporte_medico,68.452,35.915,47.7665,0.3805,18.1741,61.78,60.31,alerta,P2,4,1365,Latencia acima do envelope operacional
+10,COM,Sistema de Comunicacao,comunicacao,42.478,36.66,27.8369,1.5976,44.4733,99.0,5.2,ativo,P3,3,1710,Enlace nominal
+10,AGR,Complexo de Agricultura,agricultura,90.222,43.631,24.101,0.6887,16.5985,84.61,46.98,alerta,P3,3,2001,Latencia acima do envelope operacional
+10,LOG,Complexo de Logistica,armazenamento,67.217,60.397,23.7178,0.4865,11.5382,64.41,56.13,ativo,P4,2,2198,Enlace nominal
+10,MIN,Complexo de Mineracao,laboratorio,76.946,69.61,47.671,0.9093,43.3486,86.15,44.09,ativo,P4,2,2730,Enlace nominal
+10,RES,Centro de Pesquisa,laboratorio,53.72,45.105,11.9207,0.321,3.8264,73.42,54.82,ativo,P5,1,3017,Enlace nominal
+11,CTL,Centro de Controle,comunicacao,19.362,16.475,47.8743,0.3176,15.2036,72.01,5.59,ativo,P1,5,419,Enlace nominal
+11,PWR,Complexo de Energia,energia,45.44,32.661,119.9816,0.2207,26.4812,71.85,39.49,alerta,P1,5,692,Latencia acima do envelope operacional
+11,LSS,Sistema de Suporte de Vida,suporte,40.989,34.103,48.0593,0.4075,19.5837,59.89,50.31,ativo,P1,5,973,Enlace nominal
+11,HAB,Complexo Habitacional,habitacao,37.147,34.822,23.8365,0.5516,13.1483,66.91,31.71,ativo,P2,4,1262,Enlace nominal
+11,MED,Complexo Medico,suporte_medico,29.689,24.481,48.0663,0.3833,18.4224,87.57,30.79,ativo,P2,4,1365,Enlace nominal
+11,COM,Sistema de Comunicacao,comunicacao,60.232,51.745,28.187,1.5999,45.0974,58.31,41.92,manutencao,P3,3,1710,Janela de manutencao preventiva
+11,AGR,Complexo de Agricultura,agricultura,47.64,42.342,23.7892,0.7043,16.7547,84.6,42.67,ativo,P3,3,2001,Enlace nominal
+11,LOG,Complexo de Logistica,armazenamento,75.255,64.983,24.1093,0.4724,11.3893,80.06,76.63,ativo,P4,2,2198,Enlace nominal
+11,MIN,Complexo de Mineracao,laboratorio,76.669,68.116,48.1956,0.9066,43.6941,99.0,43.39,ativo,P4,2,2730,Enlace nominal
+11,RES,Centro de Pesquisa,laboratorio,48.203,43.041,12.0346,0.3399,4.0909,79.8,50.07,ativo,P5,1,3017,Enlace nominal
+12,CTL,Centro de Controle,comunicacao,44.085,35.072,48.3516,0.3236,15.6462,76.19,68.97,ativo,P1,5,419,Enlace nominal
+12,PWR,Complexo de Energia,energia,35.524,31.399,120.0433,0.1995,23.9433,86.77,40.25,ativo,P1,5,692,Enlace nominal
+12,LSS,Sistema de Suporte de Vida,suporte,46.74,37.456,48.0031,0.4032,19.3527,79.53,68.03,ativo,P1,5,973,Enlace nominal
+12,HAB,Complexo Habitacional,habitacao,32.703,31.376,23.7615,0.533,12.6645,87.47,27.08,ativo,P2,4,1262,Enlace nominal
+12,MED,Complexo Medico,suporte_medico,32.035,28.443,48.1489,0.379,18.2498,95.92,46.78,ativo,P2,4,1365,Enlace nominal
+12,COM,Sistema de Comunicacao,comunicacao,62.564,53.375,28.0138,1.5859,44.4264,80.3,54.68,ativo,P3,3,1710,Enlace nominal
+12,AGR,Complexo de Agricultura,agricultura,78.489,37.956,24.0072,0.6992,16.7866,73.37,24.31,alerta,P3,3,2001,Latencia acima do envelope operacional
+12,LOG,Complexo de Logistica,armazenamento,68.072,60.334,23.8324,0.4911,11.7043,72.01,58.45,ativo,P4,2,2198,Enlace nominal
+12,MIN,Complexo de Mineracao,laboratorio,124.884,79.66,47.7732,0.8959,42.7979,79.56,75.38,alerta,P4,2,2730,Latencia acima do envelope operacional
+12,RES,Centro de Pesquisa,laboratorio,80.052,35.756,11.9493,0.3506,4.1898,87.24,28.27,alerta,P5,1,3017,Latencia acima do envelope operacional
