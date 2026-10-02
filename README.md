@@ -203,9 +203,10 @@ Em outras palavras, o SCIC funciona como um laboratório de supervisão operacio
 
 ## 📝 Refs e entrega
 
-- [Relatório técnico](relatorio_tecnico.md)
-- [Entrega final](../ENTREGA_FINAL.md)
-- [Resumo visual](../RESUMO_VISUAL.md)
-- [Guia do vídeo](../GUIA_VIDEO.md)
+- [Relatório técnico](scic/relatorio_tecnico.md)
+- [Entrega final](ENTREGA_FINAL.md)
+- [Resumo visual](RESUMO_VISUAL.md)
+- [Guia do vídeo](GUIA_VIDEO.md)
 
 > O objetivo da entrega é demonstrar um sistema funcional, bem documentado e alinhado com os requisitos da Fase 6 da FIAP.
+
