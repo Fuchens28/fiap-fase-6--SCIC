@@ -210,3 +210,5 @@ Em outras palavras, o SCIC funciona como um laboratório de supervisão operacio
 
 > O objetivo da entrega é demonstrar um sistema funcional, bem documentado e alinhado com os requisitos da Fase 6 da FIAP.
 
+> Teste de validação do fluxo de PR no GitHub.
+
